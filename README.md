@@ -13,11 +13,9 @@ Student at **FIT VUT Brno** - Faculty of Information Technology
 - **[IOS_2](https://github.com/StefieS/IOS_2)** - Ski Bus synchronization with semaphores and shared memory
 
 ### C Programming
+- **[IZP](https://github.com/StefieS/IZP)** - Address search filter with autocomplete
 - **[IJC_1](https://github.com/StefieS/IJC_1)** - Prime number finder (Sieve of Eratosthenes) and comment remover
 - **[IJC_2](https://github.com/StefieS/IJC_2)** - Hash table library and word frequency counter
-
-### Programming Systems
-- **[IZP](https://github.com/StefieS/IZP)** - Address search filter with autocomplete
 
 ### Programming Languages
 - **[IPP_1_PY_Parser_to_XML](https://github.com/StefieS/IPP_1_PY_Parser_to_XML)** - Python parser for custom OOP language to XML
@@ -40,8 +38,8 @@ Student at **FIT VUT Brno** - Faculty of Information Technology
 ### Algorithms
 - **[PY_A_STAR](https://github.com/StefieS/PY_A_STAR)** - A* pathfinding algorithm implementation
 
-### Compilers (Team Project)
-- **[butfit-ifj](https://github.com/StefieS/butfit-ifj)** - Compiler project (forked)
+### Compilers
+- **[butfit-ifj](https://github.com/StefieS/butfit-ifj)** - Compiler project
 
 ## Tech Stack
 
