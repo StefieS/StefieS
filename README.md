@@ -51,4 +51,3 @@ Student at **FIT VUT Brno** - Faculty of Information Technology
 ![Prolog](https://img.shields.io/badge/Prolog-74283C?style=flat)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
