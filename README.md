@@ -20,10 +20,10 @@ Student at **FIT VUT Brno** - Faculty of Information Technology
 ### Programming Languages
 - **[IPP_1_PY_Parser_to_XML](https://github.com/StefieS/IPP_1_PY_Parser_to_XML)** - Python parser for custom OOP language to XML
 
-### Java Programming
+### Java Programming (Team project)
 - **[ija-project-LuxMundi](https://github.com/StefieS/ija-project-LuxMundi)** - LuxMundi: JavaFX puzzle game inspired by LightBulb (save/load, multiple difficulty levels)
 
-### Computer Communications
+### C++ Programming (Team project)
 - **[ICP_FSMCraft](https://github.com/StefieS/ICP_FSMCraft)** - Visual editor for finite state machines (Qt5, JavaScript actions)
 
 ### Hardware Architecture
@@ -38,7 +38,7 @@ Student at **FIT VUT Brno** - Faculty of Information Technology
 ### Algorithms
 - **[PY_A_STAR](https://github.com/StefieS/PY_A_STAR)** - A* pathfinding algorithm implementation
 
-### Compilers
+### Compilers (Team project)
 - **[butfit-ifj](https://github.com/StefieS/butfit-ifj)** - Compiler project
 
 ## Tech Stack
