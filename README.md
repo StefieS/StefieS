@@ -29,7 +29,7 @@ Student at **FIT VUT Brno** - Faculty of Information Technology
 ### Hardware Architecture
 - **[Brainfuck_CPU-INP_1](https://github.com/StefieS/Brainfuck_CPU-INP_1)** - Brainfuck CPU implementation in VHDL
 
-### Modeling & Simulation
+### Modeling & Simulation (Team project)
 - **[IMS_PROJEKT_APIARY](https://github.com/StefieS/IMS_PROJEKT_APIARY)** - Apiary simulation to compare effectiveness
 
 ### Logic Programming
