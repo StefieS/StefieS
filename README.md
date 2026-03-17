@@ -41,6 +41,9 @@ Student at **FIT VUT Brno** - Faculty of Information Technology
 ### Compilers (Team project)
 - **[butfit-ifj](https://github.com/StefieS/butfit-ifj)** - Compiler project
 
+### Hackathon
+- **[NLP@FIT&Data_Sentics_Hackaton](https://github.com/StefieS/FADO_HACKATHON)** - 1st place in claim extraction task.
+
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
